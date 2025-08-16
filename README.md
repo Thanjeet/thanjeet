@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Thanjeet 👋
 
-<!--
-**Thanjeet/thanjeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+I am an engineer and consultant passionate about leveraging technology to optimize processes, drive digital transformation, and build scalable automation solutions. With a strong foundation in Robotic Process Automation (RPA), Industrial Automation, and Software Development, I help businesses streamline operations and unlock efficiency.
 
-Here are some ideas to get you started:
+Beyond technical implementation, I bring expertise in Engineering Management, Business Development, and Digital Transformation Consultation, bridging the gap between strategy and execution. My work often focuses on manufacturing process optimization and delivering solutions that enhance productivity, reduce costs, and enable sustainable growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do:
+
+Design and implement automation solutions (RPA & industrial systems)
+
+Lead engineering teams to deliver impactful projects
+
+Consult on digital transformation strategies
+
+Build tools and software that improve real-world processes
+
+Explore Artificial Intelligence & Large Language Models (LLMs) through research with the Algoverse program
+
+🔍 I am especially passionate about AI and how it intersects with automation, business, and industry. Always curious, I enjoy exploring how emerging technologies like LLMs can redefine industries and create new opportunities.
