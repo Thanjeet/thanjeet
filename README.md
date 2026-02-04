@@ -12,8 +12,10 @@ Hi I'm Thanjeet 👋<br><br>I am an engineer and consultant passionate about lev
 ![](https://nirzak-streak-stats.vercel.app/?user=thanjeet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanjeet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thanjeet&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=thanjeet&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thanjeet&icon=0&color=0)](https://visitcount.itsvg.in)
